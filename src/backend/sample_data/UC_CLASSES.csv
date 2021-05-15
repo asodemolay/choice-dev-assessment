@@ -1,0 +1,8 @@
+id,name,description,id_company
+1,Residencial, Description Residencial,1
+2,Commercial, Description Commercial,1
+3,Industrial, Description Industrial,1
+4,Rural, Description Rural,1
+5,Public Illumination, Description Public Illumination,1
+6,Public Power, Description Public Power,1
+7,Public Service, Description Public Service,1

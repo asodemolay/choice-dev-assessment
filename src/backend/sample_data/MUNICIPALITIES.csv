@@ -1,0 +1,106 @@
+id,name,description,id_company
+1,Clervaux, Description Clervaux,1
+2,Parc Hosingen, Description Parc Hosingen,1
+3,Troisvierges, Description Troisvierges,1
+4,Weiswampach, Description Weiswampach,1
+5,Wincrange, Description Wincrange,1
+6,Bettendorf, Description Bettendorf,1
+7,Bourscheid, Description Bourscheid,1
+8,Diekirch, Description Diekirch,1
+9,Erpeldange, Description Erpeldange,1
+10,Ettelbruck, Description Ettelbruck,1
+11,Feulen, Description Feulen,1
+12,Mertzig, Description Mertzig,1
+13,Reisdorf, Description Reisdorf,1
+14,Schieren, Description Schieren,1
+15,Vallée de l'Ernz, Description Vallée de l'Ernz,1
+16,Beckerich, Description Beckerich,1
+17,Ell, Description Ell,1
+18,Grosbous, Description Grosbous,1
+19,Préizerdaul, Description Préizerdaul,1
+20,Rambrouch, Description Rambrouch,1
+21,Redange, Description Redange,1
+22,Saeul, Description Saeul,1
+23,Useldange, Description Useldange,1
+24,Vichten, Description Vichten,1
+25,Wahl, Description Wahl,1
+26,Putscheid, Description Putscheid,1
+27,Tandel, Description Tandel,1
+28,Vianden, Description Vianden,1
+29,Boulaide, Description Boulaide,1
+30,Esch - sur - Sûre, Description Esch - sur - Sûre,1
+31,Goesdorf, Description Goesdorf,1
+32,Kiischpelt, Description Kiischpelt,1
+33,Lac de la Haute-Sûre, Description Lac de la Haute-Sûre,1
+34,Wiltz, Description Wiltz,1
+35,Winseler, Description Winseler,1
+36,Beaufort, Description Beaufort,1
+37,Bech, Description Bech,1
+38,Berdorf, Description Berdorf,1
+39,Consdorf, Description Consdorf,1
+40,Echternach, Description Echternach,1
+41,Mompach, Description Mompach,1
+42,Rosport, Description Rosport,1
+43,Waldbillig, Description Waldbillig,1
+44,Betzdorf, Description Betzdorf,1
+45,Biwer, Description Biwer,1
+46,Flaxweiler, Description Flaxweiler,1
+47,Grevenmacher, Description Grevenmacher,1
+48,Junglinster, Description Junglinster,1
+49,Manternach, Description Manternach,1
+50,Mertert, Description Mertert,1
+51,Wormeldange, Description Wormeldange,1
+52,Bous, Description Bous,1
+53,Dalheim, Description Dalheim,1
+54,Lenningen, Description Lenningen,1
+55,Mondorf - les - Bains, Description Mondorf - les - Bains,1
+56,Remich, Description Remich,1
+57,Schengen, Description Schengen,1
+58,Stadtbredimus, Description Stadtbredimus,1
+59,Waldbredimus, Description Waldbredimus,1
+60,Dippach, Description Dippach,1
+61,Garnich, Description Garnich,1
+62,Hobscheid, Description Hobscheid,1
+63,Käerjeng, Description Käerjeng,1
+64,Kehlen, Description Kehlen,1
+65,Koerich, Description Koerich,1
+66,Kopstal, Description Kopstal,1
+67,Mamer, Description Mamer,1
+68,Septfontaines, Description Septfontaines,1
+69,Steinfort, Description Steinfort,1
+70,Bettembourg, Description Bettembourg,1
+71,Differdange, Description Differdange,1
+72,Dudelange, Description Dudelange,1
+73,Esch-sur-Alzette, Description Esch-sur-Alzette,1
+74,Frisange, Description Frisange,1
+75,Kayl, Description Kayl,1
+76,Leudelange, Description Leudelange,1
+77,Mondercange, Description Mondercange,1
+78,Pétange, Description Pétange,1
+79,Reckange - sur - Mess, Description Reckange - sur - Mess,1
+80,Roeser, Description Roeser,1
+81,Rumelange, Description Rumelange,1
+82,Sanem, Description Sanem,1
+83,Schifflange, Description Schifflange,1
+84,Bertrange, Description Bertrange,1
+85,Contern, Description Contern,1
+86,Hesperange, Description Hesperange,1
+87,Luxembourg, Description Luxembourg,1
+88,Niederanven, Description Niederanven,1
+89,Sandweiler, Description Sandweiler,1
+90,Schuttrange, Description Schuttrange,1
+91,Steinsel, Description Steinsel,1
+92,Strassen, Description Strassen,1
+93,Walferdange, Description Walferdange,1
+94,Weiler - la - Tour, Description Weiler - la - Tour,1
+95,Bissen, Description Bissen,1
+96,Boevange - sur - Attert, Description Boevange - sur - Attert,1
+97,Colmar - Berg, Description Colmar - Berg,1
+98,Fischbach, Description Fischbach,1
+99,Heffingen, Description Heffingen,1
+100,Larochette, Description Larochette,1
+101,Lintgen, Description Lintgen,1
+102,Lorentzweiler, Description Lorentzweiler,1
+103,Mersch, Description Mersch,1
+104,Nommern, Description Nommern,1
+105,Tuntange, Description Tuntange,1

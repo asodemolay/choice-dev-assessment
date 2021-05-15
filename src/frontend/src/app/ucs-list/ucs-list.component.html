@@ -1,0 +1,32 @@
+<h2>UCs List</h2>
+<dx-data-grid
+  [dataSource]="ucs"
+  [remoteOperations]="true"
+  [columnAutoWidth]="true"
+  [showBorders]="true"
+  [hoverStateEnabled]="true"
+>
+  <dxo-filter-row [visible]="true"></dxo-filter-row>
+  <dxo-header-filter [visible]="true"></dxo-header-filter>
+  <dxo-paging [pageSize]="500"></dxo-paging>
+  <dxo-selection mode="single"></dxo-selection>
+
+  <dxi-column dataField="id" caption="UC (Id)" alignment="left"></dxi-column>
+  <dxi-column dataField="consumerName" caption="Consumer Name"></dxi-column>
+  <dxi-column dataField="region.name" caption="Region"></dxi-column>
+  <dxi-column dataField="locality.name" caption="Locality"></dxi-column>
+  <dxi-column dataField="municipality.name" caption="Municipality"></dxi-column>
+  <dxi-column dataField="neighborhood.name" caption="Neighborhood"></dxi-column>
+  <dxi-column dataField="meterType.name" caption="Meter Type"></dxi-column>
+  <dxi-column dataField="ucClass.name" caption="Class"></dxi-column>
+  <dxi-column dataField="phase.name" caption="Phase"></dxi-column>
+  <dxi-column
+    dataField="activityField.name"
+    caption="Activity Field"
+  ></dxi-column>
+  <dxi-column
+    dataField="voltageLevel.name"
+    caption="Voltage Level"
+  ></dxi-column>
+</dx-data-grid>
+<!--Develop an event handler to navigate to /uc/{id} and a new component to show an UC details-->
