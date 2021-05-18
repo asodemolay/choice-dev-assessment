@@ -8,7 +8,7 @@ The requirements to be assessed can be read on [this file](/Avaliacao-de-conheci
 The API is stored in /src/backend folder. This application must start first to serve the Front-end with data.
 
 ### About the architecture
-This project is a monolith pretending to be have a Clean Architecture. To **K**eep **i**t **s**tupidly **s**imple, I've opt to only build the Clean Architecture as folders. But it's not *real*.
+This project is a monolith pretending to have a Clean Architecture. To **K**eep **i**t **s**tupidly **s**imple, I've opt to only build the Clean Architecture as folders. But it's not *real*.
 
 ## Step 2 - Front-end
 
